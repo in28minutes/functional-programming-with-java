@@ -74,9 +74,63 @@ You will be using containerizing a variety of projects created with  React (Fron
 ## Step By Step Details
 
 ### Introduction to the Course
-- 00 Step 01 - Deploy Spring Boot Applications to Docker - Course Overview
-- 00 Step 02 - Deploy Spring Boot Applications to Docker - Getting Started
+- 00 Step 01: Functional Programming with Java - Course Overview
+- 00 Step 02: Functional Programming with Java - Exporing Github Repo and Installations
 
+### Introduction to Functional Programming with Java
+- 01 Step 01: Getting Started with Functional Programming with Java
+- 01 Step 02: Writing Your First Java Functional Program
+- 01 Step 03: Improving Java Functional Program with filter
+- 01 Step 04: Using Lambda Expression to enhance your Functional Program
+- 01 Step 05: Do Functional Programming Exercises with Streams, Filters and Lambdas
+- 01 Step 06: Using map in Functional Programs - with Exercises
+- 01 Step 07: Quick Review of Functional Programming Basics
+
+### Playing with Streams
+- 02 Step 01: Learning Stream Operations - Calculate Sum using reduce
+- 02 Step 02: Playing with reduce
+- 02 Step 03: Exploring Streams with Puzzles in JShell
+- 02 Step 04: Do Functional Programming Exercises with Streams and reduce
+- 02 Step 05: Learn Stream Operations - distinct and sorted
+- 02 Step 06: Using Comparators to Sort Streams with sorted
+- 02 Step 07: Collecting Stream Elements to List using collect
+- 02 Step 08: Reviewing Streams - Intermediate and Stream Operations
+
+### Exploring Java Functional Interfaces and Lambdas
+- 03 Step 01: Getting Started with Functional Interfaces - Predicate, Consumer and Function
+- 03 Step 02: Do Exercises with Functional Interfaces - BinaryOperator
+- 03 Step 03: Doing Behavior Parameterization with Functional Programming
+- 03 Step 04: Do Exercise with Behavior Parameterization
+- 03 Step 05: Exploring Supplier and UnaryOperator Functional Interfaces
+- 03 Step 06: Exploring BiPredicate, BiFunction, BiConsumer and Primitive Functional Interfaces
+- 03 Step 07: Playing Puzzles with Functional Interfaces and Lambdas
+- 03 Step 08: Exploring Method References with Java
+
+### Java Functional Programming with Custom Classes
+- 04 Step 01: Creating Custom Class Course with some Test Data
+- 04 Step 02: Playing with allMatch, noneMatch and anyMatch
+- 04 Step 03: Sorting courses with sorted and creating Comparators
+- 04 Step 04: Playing with skip, limit, takeWhile and dropWhile
+- 04 Step 05: Finding top, max and min courses with max, min, findFirst and findAny
+- 04 Step 06: Playing with sum, average and count
+- 04 Step 07: Grouping courses into Map using groupingBy
+
+### Playing with Java Functional Programming
+- 05 Step 01: Creating Streams using Stream of method and for Arrays
+- 05 Step 02: Creating Streams for First 100 Numbers, Squares of Numbers and More
+- 05 Step 03: Doing Big Number calculations with BigInteger
+
+### Playing further with Java Functional Programming
+- 06 Step 01: Joining Strings with joining and Playing with flapMap
+- 06 Step 02: Creating Higher Order Functions
+- 06 Step 03: FP and Performance - Intermediate Stream Operations are Lazy
+- 06 Step 04: Improving Performance with Parallelization of Streams
+
+### Functional Programming makes Java Easy
+- 07 Step 01: Modifying lists with replaceAll and removeIf
+- 07 Step 02: Playing with Files using Functional Programming
+- 07 Step 03: Playing with Threads using Functional Programming
+- 07 Step 04: Using Functional Programming in Java Applications
 
 
 ```sh
