@@ -200,6 +200,11 @@ modifyableCourses
 
 ### Later
 
+- Creating a Custom Functional Interface and Creating a Lambda Expression matching it!
+- Clarify on Passing Behavior as a Parameter.
+- Collectors.toMap(key, value)
+- What are the constraints in using parallel() on the Streams?
+
 - collect(ArrayList::new, ArrayList::add, ArrayList::addAll)		
 - partitioningBy
 
